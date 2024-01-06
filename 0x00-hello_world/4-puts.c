@@ -6,7 +6,7 @@
  *Description: function that prints message with puts function
  *
  *Return: Always 0 (Success)
- */
+*/
 
 int main(void)
 {
