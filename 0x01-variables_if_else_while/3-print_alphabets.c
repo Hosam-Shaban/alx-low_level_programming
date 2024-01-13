@@ -21,10 +21,10 @@ int main(void)
 	}
 
 	/*upper case*/
-	while (ch <= 'Z')
+	while (CH <= 'Z')
 	{
-		putchar(ch);
-		ch++;
+		putchar(CH);
+		CH++;
 	}
 	putchar('\n');
 
