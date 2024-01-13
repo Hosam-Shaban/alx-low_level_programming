@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 /**
- *
  * main - Entry point
  *
  * Description: positive or negative numbers
@@ -14,6 +13,7 @@
 int main(void)
 {
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
